@@ -48,34 +48,6 @@ maxWay amount and it is printed in the terminal.
 
 we don't fall in an infinite loop.
 
-Code:
-
-This is the main method. I use an adjacency matrix to save the
-tree. Because of that, when the (m, n) is true, the (n, m) has to be
-true.
-
-
-
-
-<a name="br3"></a>In the *findTheLongestWay* method I defined
-another 2D boolean array and I put all values of the main
-array in it. I did it because the array has a reference in
-memory.
-
-I defined a variable named “temp”. It should keep the old
-value of the first node, And doesnt let the second node to
-be equal to itself.
-
-If all elements of the newGraph become false, it takes the
-values of the graph again.
-
-
-
-
-<a name="br4"></a>Examples:
-
-
-
 
 
 <a name="br5"></a>
