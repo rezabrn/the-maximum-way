@@ -53,10 +53,4 @@ we don't fall in an infinite loop.
 <a name="br5"></a>
 
 
-<a name="br6"></a>Thank you for your attention.
-
-I hope the explanation is useful.
-
-Full Name : Reza Salehi
-
-Student Number : 40006703
+<a name="br6"></a>
